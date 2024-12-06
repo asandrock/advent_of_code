@@ -1,0 +1,8 @@
+#define FTL_TEMPLATE_KEYTYPE_IS_FTLSTRING
+#define FTL_TEMPLATE_KEYTYPE_NAME String
+#define FTL_TEMPLATE_TYPE Workflow
+#define FTL_TEMPLATE_TYPE_IS_DERIVED
+#define FTL_TEMPLATE_TYPE_MODULE WorkflowModule
+#define FTL_TEMPLATE_TYPE_NAME Workflow
+#define FTL_INSTANTIATE_TEMPLATE
+#include <ftlHashMap.F90_template>

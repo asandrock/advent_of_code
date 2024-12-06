@@ -1,0 +1,7 @@
+#define FTL_TEMPLATE_KEYTYPE_IS_FILSTRING
+#define FTL_TEMPLATE_KEYTYPE_NAME String
+#define FTL_TEMPLATE_TYPE mod_type
+#define FTL_TEMPLATE_TYPE_NAME Mod
+#define FTL_TEMPLATE_TYPE_IS_DERIVED
+#define FTL_TEMPLATE_TYPE_MODULE mod_module
+#include <ftlHashMap.F90_template>

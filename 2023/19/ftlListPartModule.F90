@@ -1,0 +1,6 @@
+#define FTL_TEMPLATE_TYPE Part
+#define FTL_TEMPLATE_TYPE_IS_DERIVED
+#define FTL_TEMPLATE_TYPE_MODULE PartModule
+#define FTL_TEMPLATE_TYPE_NAME Part
+#define FTL_INSTANTIATE_TEMPLATE
+#include <ftlList.F90_template>

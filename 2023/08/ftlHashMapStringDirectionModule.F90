@@ -1,0 +1,8 @@
+#define FTL_TEMPLATE_KEYTYPE_IS_FTLSTRING
+#define FTL_TEMPLATE_KEYTYPE_NAME String
+#define FTL_TEMPLATE_TYPE direction
+#define FTL_TEMPLATE_TYPE_MODULE directionModule
+#define FTL_TEMPLATE_TYPE_NAME Direction
+#define FTL_TEMPLATE_TYPE_IS_DERIVED
+#define FTL_INSTANTIATE_TEMPLATE
+#include <ftlHashMap.F90_template>
