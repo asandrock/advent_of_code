@@ -1,4 +1,4 @@
-progs:=main1 #main2
+progs:=main1 main2
 F90:=gfortran
 FFLAGS:=-Wall -g -fbacktrace
 INC:=`pkg-config --cflags stringifor`
